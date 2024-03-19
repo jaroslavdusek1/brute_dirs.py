@@ -20,4 +20,4 @@ Notes:
 The script traverses the directory tree starting from the specified root directory and displays all subdirectories and files, reflecting 
 their hierarchical structure. It aims to provide a clear and concise representation of the directory contents.
 
-![pic](https://github.com/jaroslavdusek1/brute_dirs.py/main/pic.png)
+![pic](https://raw.githubusercontent.com/jaroslavdusek1/brute_dirs.py/main/pic.png)
